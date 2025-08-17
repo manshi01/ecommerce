@@ -11,6 +11,8 @@ const anoterdata='https://dummyjson.com/products/1'
 
  const [data, setData] = useState([]);
 
+ 
+
  useEffect(() => {
     async function fetchData() {
       try {
