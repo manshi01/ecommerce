@@ -13,6 +13,8 @@ const anoterdata='https://dummyjson.com/products/1'
 
  
 
+ 
+
  useEffect(() => {
     async function fetchData() {
       try {
